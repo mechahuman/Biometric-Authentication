@@ -104,3 +104,11 @@ pip install opencv-python opencv-contrib-python Pillow numpy
 - **Face Detection Model:** [Haar Cascade - OpenCV](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)  
 - **Tutorial Reference:** Face data collection, training, and testing were adapted from a tutorial by [KNOWLEDGE DOCTOR](https://www.youtube.com/watch?v=LKPB8YM8awk)  
 - **Inspiration:** Biometric-based secure access systems
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software with proper attribution.  
+See the [LICENSE](LICENSE) file for full terms.
