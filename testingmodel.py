@@ -6,7 +6,7 @@ facedetect = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
 recognizer = cv.face.LBPHFaceRecognizer_create()
 recognizer.read("Trainer.yml")
 
-name_list = ["","Manav"]
+name_list = ["","Known"]
 
 while cap.isOpened():
     ret,frame = cap.read()
