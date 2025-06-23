@@ -67,6 +67,6 @@ def open_securely(app_path):
          show_popup("Access Denied","You do not have permission to access this application.")
 
 if __name__ == '__main__':
-     appPath = fr"C:\Users\manav\AppData\Local\Programs\Obsidian\Obsidian_original.exe"
+     appPath = #add Application Path
      open_securely(appPath)
 
