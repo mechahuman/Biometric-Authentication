@@ -1,6 +1,6 @@
 # Face Recognition-based Secure Application Access
 
-This project is a complete face recognition pipeline that allows secure access to a desktop application using facial authentication. It includes data collection, model training, testing, and implementation with a GUI-based authentication system.
+This [project](https://github.com/mechahuman/Biometric-Authentication) is a complete face recognition pipeline that allows secure access to a desktop application using facial authentication. It includes data collection, model training, testing, and implementation with a GUI-based authentication system.
 
 ---
 
